@@ -1,7 +1,7 @@
 # mac-address-scrambler
 Quickly scramble you mac address -- seriously it only takes a second.
 
-## The Story
+## Story Time
 Be me. <br />
 Go on vacation to New Zealand. <br />
 Have fun time. <br />
@@ -19,4 +19,9 @@ Put commands into bash script. <br />
 When time limit is up, run bash script, reconnect to wifi. <br />
 
 ## How to use
-Run script. Computer has new randomized mac address.
+Download the script.
+Open terminal.
+cd to script location.
+Enter --> "bash mac-scrambler"
+
+Computer has new randomized mac address. Good job.
