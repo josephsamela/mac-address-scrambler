@@ -16,6 +16,7 @@ Finally change MAC address. <br />
 Reconnect to wifi...and another 45min! <br />
 Need to make process faster. <br />
 Put commands into bash script. <br />
+When time limit is up, run bash script, reconnect to wifi. <br />
 
 ## How to use
 Run script. Computer has new randomized mac address.
