@@ -2,20 +2,20 @@
 Quickly scramble you mac address -- seriously it only takes a second.
 
 ## The Story
-Be me.
-Go on vacation to New Zealand.
-Have fun time.
-Arrive at Aukland airport for flight home.
-Take out laptop. Use free airport wifi.
-"Free" wifi expires after 45mins. Need to pay $$ for more.
-insert -->"wft.jpg"<--
-How does wifi know my time limit is expired?
-Open terminal.
-Ugh, BASH. What's the command again?
-Finally change MAC address.
-Reconnect to wifi...and another 45min!
-Need to make process faster. 
-Put commands into bash script.
+Be me. <br />
+Go on vacation to New Zealand. <br />
+Have fun time. <br />
+Arrive at Aukland airport for flight home. <br />
+Take out laptop. Use free airport wifi. <br />
+"Free" wifi expires after 45mins. Need to pay $$ for more. <br />
+insert -->"wft.jpg"<-- <br />
+How does wifi know my time limit is expired? <br />
+Open terminal. <br />
+Ugh, BASH. What's the command again? <br />
+Finally change MAC address. <br />
+Reconnect to wifi...and another 45min! <br />
+Need to make process faster. <br />
+Put commands into bash script. <br />
 
 ## How to use
 Run script. Computer has new randomized mac address.
