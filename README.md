@@ -8,7 +8,7 @@ Have fun time. <br />
 Arrive at Aukland airport for flight home. <br />
 Take out laptop. Use free airport wifi. <br />
 "Free" wifi expires after 45mins. Need to pay $$ for more. <br />
-<br /> -->"wft.jpg"<-- <br />
+<br /> -->"wft.jpg"<-- <br /><br />
 How does wifi know my time limit is expired? <br />
 Try with new email address --> "burrito@quesadilla.taco" <br />
 Didn't work, must be hardware address.
