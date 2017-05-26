@@ -8,15 +8,18 @@ Have fun time. <br />
 Arrive at Aukland airport for flight home. <br />
 Take out laptop. Use free airport wifi. <br />
 "Free" wifi expires after 45mins. Need to pay $$ for more. <br />
-insert -->"wft.jpg"<-- <br />
+<br /> -->"wft.jpg"<-- <br />
 How does wifi know my time limit is expired? <br />
+Try with new email address --> "burrito@quesadilla.taco" <br />
+Didn't work, must be hardware address.
 Open terminal. <br />
 Ugh, BASH. What's the command again? <br />
 Finally change MAC address. <br />
 Reconnect to wifi...and another 45min! <br />
 Need to make process faster. <br />
 Put commands into bash script. <br />
-When time limit is up, run bash script, reconnect to wifi. <br />
+When time limit is up, run bash script again, reconnect to wifi. <br />
+<br /> -->"whatabamf.jpg"<-- <br />
 
 ## How to use
 Download the script.
