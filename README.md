@@ -22,9 +22,9 @@ When time limit is up, run bash script again, reconnect to wifi. <br />
 insert "whatabamf.jpg" <br />
 
 ## How to use
-Download the script.
-Open terminal.
-cd to script location.
-Enter --> "bash mac-scrambler"
+Download the script. <br />
+Open terminal. <br />
+cd to script location. <br />
+Enter --> "bash mac-scrambler" <br />
 
 Computer has new randomized mac address. Good job.
