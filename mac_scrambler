@@ -1,0 +1,25 @@
+# Quickly randomize your MAC Address
+# By Joe Samela in the Aukland airport
+
+# Print instructions
+echo ""
+echo "MAC Address Scrambler by Joe Samela"
+echo ""
+echo Running this script will generate and assign this machine a randomized MAC Addtress.
+echo ""
+echo "STEP 1 --> Enable wifi" 
+echo "STEP 2 --> Disconnect from any wireless network (option+click wifi icon)"
+echo ""
+read  -n 1 -p "Press [ENTER] to continue..."
+echo ""
+
+# Generate new MAC Address
+NEW_ADDRESS=$(openssl rand -hex 6 | sed 's/\(..\)/\1:/g;s/.$//')
+
+# Update MAC Address (requires sudo permissions)
+sudo ifconfig en0 ether $NEW_ADDRESS
+
+echo "MAC Address successfully changed!"
+
+echo "Your new MAC Address is..."
+sudo ifconfig en0 | grep ether
