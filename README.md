@@ -8,7 +8,7 @@ Have fun time. <br />
 Arrive at Aukland airport for flight home. <br />
 Take out laptop. Use free airport wifi. <br />
 "Free" wifi expires after 45mins. Need to pay $$ for more. <br />
-insert "wft.jpg" <br />
+![Alt text](https://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif "wtf.gif")
 How does wifi know my time limit is expired? <br />
 Try with new email address --> "burrito@quesadilla.taco" <br />
 Didn't work, must be hardware address.
@@ -19,7 +19,7 @@ Reconnect to wifi...and another 45min! <br />
 Need to make process faster. <br />
 Put commands into bash script. <br />
 When time limit is up, run bash script again, reconnect to wifi. <br />
-insert "whatabamf.jpg" <br />
+![Alt text](https://media.giphy.com/media/mL9DgfAMK4sKI/giphy.gif "what_a_bamf.gif")
 
 ## How to use
 Download the script. <br />
