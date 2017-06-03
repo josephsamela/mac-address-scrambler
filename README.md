@@ -14,7 +14,7 @@ Try with new email address --> "burrito@quesadilla.taco" <br />
 Didn't work, must be hardware address.
 Open terminal. <br />
 Ugh, BASH. What's the command again? <br />
-Finally change MAC address. <br />
+Change MAC address. <br />
 Reconnect to wifi...and 45min more of that sweet free wifi! <br />
 But typing those commands is a pain. Need to make easier. <br />
 Put commands into bash script. <br />
