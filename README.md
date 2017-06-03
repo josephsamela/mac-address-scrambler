@@ -15,10 +15,11 @@ Didn't work, must be hardware address.
 Open terminal. <br />
 Ugh, BASH. What's the command again? <br />
 Finally change MAC address. <br />
-Reconnect to wifi...and another 45min! <br />
-Need to make process faster. <br />
+Reconnect to wifi...and 45min more of that sweet free wifi! <br />
+But typing those commands is a pain. Need to make easier. <br />
 Put commands into bash script. <br />
 When time limit is up, run bash script again, reconnect to wifi. <br />
+Unlimited free wifi achieved! <br />
 ![Alt text](https://media.giphy.com/media/mL9DgfAMK4sKI/giphy.gif "what_a_bamf.gif")<br />
 
 ## How to use
