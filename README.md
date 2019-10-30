@@ -25,7 +25,7 @@ Unlimited free wifi achieved! <br />
 ## How to use
 Download the script. <br />
 Open terminal. <br />
-cd to script location. <br />
-Enter --> "bash mac-scrambler" <br />
+`cd` to script location. <br />
+`./mac-scrambler` <br />
 
 Computer has new randomized mac address. Good job.
